@@ -21,7 +21,7 @@ A simple and elegant newspaper-style web page built using **HTML** and **CSS**. 
 ```text
 newspaper-project/
 │
-├── index.html
+├── newspaper.html
 ├── styles.css
 └── README.md
 ```
