@@ -64,10 +64,10 @@ git clone https://github.com/aryan6002261/newspaper.git
 2. Navigate to the project folder:
 
 ```bash
-cd newspaper-project
+cd newspaper
 ```
 
-3. Open `index.html` in your preferred web browser.
+3. Open `newspaper.html` in your preferred web browser.
 
 No additional setup or dependencies are required.
 
